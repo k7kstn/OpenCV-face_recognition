@@ -51,13 +51,16 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 \# `pkg install opencv`
 
   &nbsp; &nbsp;   
-    &nbsp; &nbsp; 
-    
+  &nbsp; &nbsp; 
+
 **◯  ruby-opencv 環境構築 Install**
 
 プロジェクト Top ディレクトリで bundle install  at Project Top directory.
 
 % `bundle install  --path vendor`
+
+  &nbsp; &nbsp;   
+  &nbsp; &nbsp;   
   
   
 **◯  顔学習データの配置 / Face detection data  set**
@@ -67,6 +70,8 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
   
+  &nbsp; &nbsp;   
+  &nbsp; &nbsp;   
   
 
 <a name="exec_guide">
