@@ -13,6 +13,7 @@ OpenCV ... Open Source Computer Vision
   - ruby-opencv 環境構築 Install
   - 顔学習データの配置 / Face detection data  set
 - [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
+- ["face.rb"  サンプルコード参考 / Sample Code reference](#ref_sample_code)
 
 
 # ■ 動作環境 / Operation Environment
@@ -22,7 +23,7 @@ OpenCV ... Open Source Computer Vision
 - FreeBSD10.2-RELEASE
 - OpenCV 2.4.9
 - Ruby 2.0.0p598
-- ruby-opencv v0.0.14
+- ruby-opencv v0.0.14 (Ruby 1.9.3, 2.x  OK)
 
 
 <a name="what">
@@ -75,5 +76,17 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 % `ruby face.rb /home/User/user01/tmp/photo02.jpg face_out.png`
 
 % `ruby face.rb ~/Downloads/photo03.png sample_out.png`
+
+
+<a name="ref_sample_code">
+# ■ "face.rb"  サンプルコード参考 / Sample Code reference
+
+以下の２つのサンプルの掛けあわせ / "Multiplication" of below two samples.
+
+(1) ruby-opencv gem Doc  
+    &nbsp; &nbsp; http://www.rubydoc.info/gems/ruby-opencv/frames
+
+(2) 橋本商会 / Hashimoto Shokai
+  &nbsp; &nbsp; http://shokai.org/blog/archives/8627
 
 
