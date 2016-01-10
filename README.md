@@ -15,7 +15,7 @@ OpenCV ... Open Source Computer Vision
 - [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
 - ["face.rb"  サンプルコード参考 / Sample Code reference](#ref_sample_code)
 - [サンプル写真 参照元 / Sample Code reference](#ref_sample_photo)
-- [「オチ」 / Extra Note](#extra_note)
+- [サンプル出力結果と「オチ」 / Outcome and Extra Note](#extra_note)
 
 
 # ■ 動作環境 / Operation Environment
@@ -116,6 +116,12 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 <a name="extra_note">
 # ■ 「オチ」 / Extra Note
+
+![Sample Photo](https://raw.githubusercontent.com/k7kstn/OpenCV-face_recognition/master/face_recog-rb/20160110face_out003.png)
+
+お、 いいじゃん。 / OK, seems like detecting correctly.
+
+・・・！！！ ↓ （オチ）
 
 このサンプルで監視カメラを作るとすると、警官は捉え、肝心な不審者を見過ごしてしまうようです。。  
 Hmm, if we were to build a surveillance camera with this sample, we could detect the police man but not the intruder...
