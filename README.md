@@ -14,6 +14,8 @@ OpenCV ... Open Source Computer Vision
   - 顔学習データの配置 / Face detection data  set
 - [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
 - ["face.rb"  サンプルコード参考 / Sample Code reference](#ref_sample_code)
+- [サンプル写真 参照元 / Sample Code reference](#ref_sample_photo)
+- [「オチ」 / Extra Note](#extra_note)
 
 
 # ■ 動作環境 / Operation Environment
@@ -86,7 +88,25 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 (1) ruby-opencv gem Doc  
     &nbsp; &nbsp; http://www.rubydoc.info/gems/ruby-opencv/frames
 
-(2) 橋本商会 / Hashimoto Shokai
+(2) 橋本商会 / Hashimoto Shokai  
   &nbsp; &nbsp; http://shokai.org/blog/archives/8627
 
+
+<a name="ref_sample_photo">
+# ■ サンプル写真 参照元 / Sample Code reference
+
+謝意と共に。 / With courtesy.
+
+(1) http://blog.up.co/2015/12/14/announcing-the-2015-global-startup-battle-champions/
+
+(2) https://www.pakutaso.com/20160133004post-6522.html
+
+
+<a name="extra_note">
+# ■ 「オチ」 / Extra Note
+
+このサンプルで監視カメラを作るとすると、警官は捉え、肝心な不審者を見過ごしてしまうようです。。  
+Hmm, if we were to build a surveillance camera with this sample, we can detect the police man but not the intruder...
+
+![Sample Photo](https://raw.githubusercontent.com/k7kstn/OpenCV-face_recognition/master/face_recog-rb/20161110face_out004.jpg)
 
