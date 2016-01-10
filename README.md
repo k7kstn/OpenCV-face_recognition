@@ -1,3 +1,8 @@
+# ■ 目次 / Table of Contents
+
+- [顔認識処理 実施 / Execute Face recognition script]("#exec")
+
+
 # ■ 自動顔認識処理 実験 （OpenCV - ruby-opencv gem）
 
 Auto Face recognition  utilizing OpenCV and ruby-opencv gem.
