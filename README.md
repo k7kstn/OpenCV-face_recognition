@@ -22,7 +22,7 @@ OpenCV ... Open Source Computer Vision
 - 画像読み込み、人物顔と認識した部分をマーキングする / take in a photo and mark regions recognized as human facial parts
 
 
-# ■ 手順 / Procedure
+# ■ 実行環境 構築手順 / Operation Env setup Procedure
 
 **◯  openCV 環境構築 Install**
 
@@ -47,4 +47,20 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
+
+# ■ 顔認識処理 実施 / Execute Face recognition script
+
+プロジェクト Top ディレクトリ より / At project top directory, 
+
+% `cd face-recog-rb`
+
+% `ruby face.rb <source photo file> <output photo file>`
+
+**＜例 / Sample＞**
+
+% `ruby face.rb ~/Download/photo01.png face_out.jpg`
+
+% `ruby face.rb /home/User/user01/tmp/photo02.jpg face_out.png`
+
+
 
