@@ -1,3 +1,10 @@
+# ■ 自動顔認識処理 実験 （OpenCV - ruby-opencv gem）
+
+Auto Face recognition  utilizing OpenCV and ruby-opencv gem.
+
+OpenCV ... Open Source Computer Vision
+
+
 # ■ 目次 / Table of Contents
 
 - [何するものぞ / What for ?](#what)
@@ -6,13 +13,6 @@
   - ruby-opencv 環境構築 Install
   - 顔学習データの配置 / Face detection data  set
 - [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
-
-
-# ■ 自動顔認識処理 実験 （OpenCV - ruby-opencv gem）
-
-Auto Face recognition  utilizing OpenCV and ruby-opencv gem.
-
-OpenCV ... Open Source Computer Vision
 
 
 # ■ 動作環境 / Operation Environment
