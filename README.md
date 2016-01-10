@@ -53,7 +53,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
 
-<a "exec">
+<a href="exec">
 # ■ 顔認識処理 実施 / Execute Face recognition script
 
 プロジェクト Top ディレクトリ より / At project top directory, 
