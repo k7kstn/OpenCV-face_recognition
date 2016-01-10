@@ -49,8 +49,10 @@ OpenCV ... Open Source Computer Vision
 FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 \# `pkg install opencv`
-  
-  
+
+  &nbsp; &nbsp;   
+    &nbsp; &nbsp; 
+    
 **◯  ruby-opencv 環境構築 Install**
 
 プロジェクト Top ディレクトリで bundle install  at Project Top directory.
