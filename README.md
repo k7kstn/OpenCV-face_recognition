@@ -1,6 +1,11 @@
 # ■ 目次 / Table of Contents
 
-- [顔認識処理 実施 / Execute Face recognition script](#exec)
+- [何するものぞ / What for ?](#what)
+- [実行環境 構築手順 / Operation Env setup Procedure](#env_build)
+　　- OpenCV 環境構築 Install
+　　- ruby-opencv 環境構築 Install
+　　- 顔学習データの配置 / Face detection data  set
+- [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
 
 
 # ■ 自動顔認識処理 実験 （OpenCV - ruby-opencv gem）
@@ -20,16 +25,17 @@ OpenCV ... Open Source Computer Vision
 - ruby-opencv v0.0.14
 
 
+<a name="what">
 # ■ 何するものぞ / What for ?
 
 オープンソース技術による顔認識処理 実験 / Experimenting Open Source Computer Vision library utilization
 
 - 画像読み込み、人物顔と認識した部分をマーキングする / take in a photo and mark regions recognized as human facial parts
 
-
+<a name="env_build">
 # ■ 実行環境 構築手順 / Operation Env setup Procedure
 
-**◯  openCV 環境構築 Install**
+**◯  OpenCV 環境構築 Install**
 
 （参考 / Reference）  
   &nbsp; &nbsp; http://opencv.org/downloads.html
@@ -53,7 +59,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
 
-<a name="exec">
+<a name="exec_guide">
 # ■ 顔認識処理 実施 / Execute Face recognition script
 
 プロジェクト Top ディレクトリ より / At project top directory, 
