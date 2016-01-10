@@ -2,9 +2,9 @@
 
 - [何するものぞ / What for ?](#what)
 - [実行環境 構築手順 / Operation Env setup Procedure](#env_build)
-　　- OpenCV 環境構築 Install
-　　- ruby-opencv 環境構築 Install
-　　- 顔学習データの配置 / Face detection data  set
+  - OpenCV 環境構築 Install
+  - ruby-opencv 環境構築 Install
+  - 顔学習データの配置 / Face detection data  set
 - [顔認識処理 実施 / Execute Face recognition script](#exec_guide)
 
 
