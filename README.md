@@ -35,6 +35,9 @@ OpenCV ... Open Source Computer Vision
 
 - 画像読み込み、人物顔と認識した部分をマーキングする / take in a photo and mark regions recognized as human facial parts
 
+監視カメラなどに応用 / Apply to build surveillance cameras ??
+
+
 <a name="env_build">
 # ■ 実行環境 構築手順 / Operation Env setup Procedure
 
