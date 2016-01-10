@@ -109,7 +109,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 # ■ 「オチ」 / Extra Note
 
 このサンプルで監視カメラを作るとすると、警官は捉え、肝心な不審者を見過ごしてしまうようです。。  
-Hmm, if we were to build a surveillance camera with this sample, we can detect the police man but not the intruder...
+Hmm, if we were to build a surveillance camera with this sample, we could detect the police man but not the intruder...
 
 ![Sample Photo](https://raw.githubusercontent.com/k7kstn/OpenCV-face_recognition/master/face_recog-rb/20161110face_out004.jpg)
 
