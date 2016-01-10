@@ -67,6 +67,8 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 このリポジトリの 「data」ディレクトリ以下に配置 / Set under 'data' directory in this repository.
 
+※ 以下のデータをこのリポジトリに既に取り込み済み / Below is already in this repository.
+
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
   
