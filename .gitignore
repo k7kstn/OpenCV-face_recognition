@@ -3,3 +3,5 @@
 *.py
 20160109*.jpg
 *.core
+.bundle
+vendor
