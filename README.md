@@ -115,7 +115,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 
 <a name="extra_note">
-# ■ 「オチ」 / Extra Note
+# ■ サンプル出力結果と「オチ」 / Outcome and Extra Note
 
 ![Sample Photo](https://raw.githubusercontent.com/k7kstn/OpenCV-face_recognition/master/face_recog-rb/20160110face_out003.png)
 
