@@ -27,7 +27,7 @@ OpenCV ... Open Source Computer Vision
 **◯  openCV 環境構築 Install**
 
 （参考 / Reference）  
-  http://opencv.org/downloads.html
+  &nbsp; &nbsp; http://opencv.org/downloads.html
 
 FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
@@ -48,6 +48,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 （元ソース Data source）  
   &nbsp; &nbsp; https://raw.githubusercontent.com/sightmachine/SimpleCV/master/SimpleCV/Features/HaarCascades/face_cv2.xml
 
+
 # ■ 顔認識処理 実施 / Execute Face recognition script
 
 プロジェクト Top ディレクトリ より / At project top directory, 
@@ -58,9 +59,10 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
 **＜例 / Sample＞**
 
-% `ruby face.rb ~/Download/photo01.png face_out.jpg`
+% `ruby face.rb ~/Downloads/photo01.png face_out.jpg`
 
 % `ruby face.rb /home/User/user01/tmp/photo02.jpg face_out.png`
 
+% `ruby face.rb ~/Downloads/photo03.png sample_out.png`
 
 
