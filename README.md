@@ -60,7 +60,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 % `bundle install  --path vendor`
 
   &nbsp; &nbsp;   
-  で gem が 「vendor」 ディレクトリ下に配置される。
+  で gem が 「vendor」 ディレクトリ下に配置される。  
   will install the gem unser 'vendor' directory.
   &nbsp; &nbsp;   
   
