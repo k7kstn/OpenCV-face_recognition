@@ -61,7 +61,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
 
   &nbsp; &nbsp;   
   で gem が 「vendor」 ディレクトリ下に配置される。  
-  will install the gem unser 'vendor' directory.
+  will install the gem under 'vendor' directory.
   &nbsp; &nbsp;   
   &nbsp; &nbsp;   
   
