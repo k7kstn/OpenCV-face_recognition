@@ -63,6 +63,7 @@ FreeBSD 環境では pkg インストール / pkg install on FreeBSD
   で gem が 「vendor」 ディレクトリ下に配置される。  
   will install the gem unser 'vendor' directory.
   &nbsp; &nbsp;   
+  &nbsp; &nbsp;   
   
   
 **◯  顔学習データの配置 / Face detection data  set**
